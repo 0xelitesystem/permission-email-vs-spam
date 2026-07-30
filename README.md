@@ -10,16 +10,20 @@ Permission is the line between email that builds a business and email that damag
 
 ## What is inside
 
-- `01-permission-vs-interruption.md` why asked-for email outperforms bought or scraped lists.
-- `02-what-counts-as-spam.md` the practical definition, beyond the legal one.
-- `03-can-spam-basics.md` common legal principles, in plain terms.
-- `04-building-a-list-honestly.md` how to grow a list people actually want to be on.
-- `05-list-hygiene.md` keeping the list healthy so your mail keeps landing.
-- `06-checklist.md` a pre-send check you can run every time.
+- [01-permission-vs-interruption.md](01-permission-vs-interruption.md) why asked-for email outperforms bought or scraped lists.
+- [02-what-counts-as-spam.md](02-what-counts-as-spam.md) the practical definition, beyond the legal one.
+- [03-can-spam-basics.md](03-can-spam-basics.md) common legal principles, in plain terms.
+- [04-building-a-list-honestly.md](04-building-a-list-honestly.md) how to grow a list people actually want to be on.
+- [05-list-hygiene.md](05-list-hygiene.md) keeping the list healthy so your mail keeps landing.
+- [06-checklist.md](06-checklist.md) a pre-send check you can run every time.
 
 ## The stance this reference takes
 
 Cold email to people who never asked is treated here as a poor foundation, both because it tends not to work and because it carries legal and reputational risk. The alternative, a list of people who opted in, is slower to build and far more durable. This reference is built around that choice.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
